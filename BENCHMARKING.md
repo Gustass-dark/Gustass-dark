@@ -27,7 +27,7 @@ Os exemplos de documentação mostram diferentes caminhos. Ky apresenta comandos
 
 A participação comunitária aparece em projetos de organizações e em instruções de contribuição, como nas documentações de React e Vue, no VueUse e no TabNews. A consulta não recuperou dados suficientes para comparar a frequência individual de contribuições dos dez profissionais. Os calendários devem ser conferidos na etapa autenticada; número de estrelas e projetos fixados não mede frequência de trabalho.
 
-## Reflexão · rascunho para revisão do estudante
+## Reflexão
 
 Ao comparar os dez perfis, percebi que a apresentação precisa ajudar o visitante a entender o foco de cada profissional.  
 Os projetos em destaque complementam essa apresentação com exemplos concretos de trabalho.  
@@ -55,4 +55,3 @@ Com essas escolhas, pretendo facilitar a compreensão dos meus projetos e regist
 - [ ] [Brad Traversy](https://github.com/bradtraversy)
 - [ ] [Filipe Deschamps](https://github.com/filipedeschamps)
 
-A lista correta usa swyxio. O endereço swyx indicado no levantamento inicial foi corrigido.
