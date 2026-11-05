@@ -25,7 +25,26 @@ Os perfis combinam apresentações curtas ou narrativas de trajetória com links
 
 Os exemplos de documentação mostram diferentes caminhos. Ky apresenta comandos e exemplos de API; VueUse oferece demos; o site de Kent documenta o ambiente; TabNews reúne instalação, testes e formas de contribuir. A existência de licença e .gitignore foi registrada onde visível. Não foi realizada uma auditoria linha a linha de todos os .gitignore.
 
-A participação comunitária aparece em projetos de organizações e em instruções de contribuição, como nas documentações de React e Vue, no VueUse e no TabNews. A consulta não recuperou dados suficientes para comparar a frequência individual de contribuições dos dez profissionais. Os calendários devem ser conferidos na etapa autenticada; número de estrelas e projetos fixados não mede frequência de trabalho.
+## Atividade pública e participação comunitária
+
+Consulta em 05/11/2026: amostra dos cinco commits retornados no histórico da branch padrão de um repositório por profissional, filtrados pelo login do autor. As datas abaixo são datas de autoria em UTC. O recorte permite observar recorrência no projeto escolhido; não representa o calendário completo do perfil nem inclui todas as issues, revisões, outras branches ou contribuições privadas.
+
+| Perfil | Projeto observado | Intervalo dos cinco commits da amostra | Fonte |
+| --- | --- | --- | --- |
+| [sindresorhus](https://github.com/sindresorhus) | [sindresorhus/ky](https://github.com/sindresorhus/ky) | 2026-10-07 a 2026-10-09 | [Histórico filtrado](https://github.com/sindresorhus/ky/commits?author=sindresorhus) |
+| [swyxio](https://github.com/swyxio) | [swyxio/swyxio](https://github.com/swyxio/swyxio) | 2023-03-18 a 2023-05-17 | [Histórico filtrado](https://github.com/swyxio/swyxio/commits?author=swyxio) |
+| [kentcdodds](https://github.com/kentcdodds) | [kentcdodds/kentcdodds.com](https://github.com/kentcdodds/kentcdodds.com) | 2026-10-19 a 2026-11-02 | [Histórico filtrado](https://github.com/kentcdodds/kentcdodds.com/commits?author=kentcdodds) |
+| [antfu](https://github.com/antfu) | [vueuse/vueuse](https://github.com/vueuse/vueuse) | 2026-08-20 a 2026-09-10 | [Histórico filtrado](https://github.com/vueuse/vueuse/commits?author=antfu) |
+| [yyx990803](https://github.com/yyx990803) | [vuejs/core](https://github.com/vuejs/core) | 2024-11-15 a 2026-01-30 | [Histórico filtrado](https://github.com/vuejs/core/commits?author=yyx990803) |
+| [gaearon](https://github.com/gaearon) | [reactjs/react.dev](https://github.com/reactjs/react.dev) | 2025-11-05 a 2026-07-01 | [Histórico filtrado](https://github.com/reactjs/react.dev/commits?author=gaearon) |
+| [addyosmani](https://github.com/addyosmani) | [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) | 2025-05-13 a 2026-08-04 | [Histórico filtrado](https://github.com/GoogleChromeLabs/quicklink/commits?author=addyosmani) |
+| [wesbos](https://github.com/wesbos) | [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) | 2021-04-07 a 2023-05-12 | [Histórico filtrado](https://github.com/wesbos/JavaScript30/commits?author=wesbos) |
+| [bradtraversy](https://github.com/bradtraversy) | [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) | 2024-02-22 a 2025-01-29 | [Histórico filtrado](https://github.com/bradtraversy/50projects50days/commits?author=bradtraversy) |
+| [filipedeschamps](https://github.com/filipedeschamps) | [filipedeschamps/tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) | 2022-11-28 a 2025-10-20 | [Histórico filtrado](https://github.com/filipedeschamps/tabnews.com.br/commits?author=filipedeschamps) |
+
+Na amostra, Sindre Sorhus apresenta alterações concentradas em três dias de outubro de 2026; Kent C. Dodds, em diferentes dias entre outubro e novembro; e Anthony Fu, entre agosto e setembro. Nos demais projetos, os registros se distribuem por períodos mais amplos ou se concentram em anos anteriores. Isso mostra que a cadência precisa ser interpretada conforme o projeto: um material educacional estável ou um README pessoal pode exigir menos mudanças que uma biblioteca em manutenção. Essas diferenças não permitem classificar a atividade total ou a qualidade profissional dos autores.
+
+A participação comunitária aparece também em contribuições a repositórios de organizações, como VueUse, Vue, React e GoogleChromeLabs, e nas orientações de colaboração documentadas pelos projetos. Para meu perfil, a prática relevante é registrar mudanças reais e compreensíveis ao longo do desenvolvimento, sem produzir commits artificiais apenas para preencher o calendário.
 
 ## Reflexão
 
