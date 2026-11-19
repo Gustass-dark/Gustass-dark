@@ -5,16 +5,6 @@
 
 Estudo Engenharia de Software e desenvolvo sites com HTML, CSS e JavaScript. Nos projetos em C, pratico lógica de programação com vetores, matrizes e funções.
 
-## Projeto em destaque
-
-### Berk — Livro dos Dragões
-
-<a href="https://gustass-dark.github.io/berk-livro-dos-dragoes/index.html"><img src="https://gustass-dark.github.io/berk-livro-dos-dragoes/imagens/hero.webp" width="440" alt="Capa do projeto Berk. Abrir o site publicado no GitHub Pages."></a>
-
-Desenvolvi um catálogo responsivo com 12 dragões. A busca e os filtros permitem explorar as fichas, e os favoritos ficam salvos no navegador com `localStorage`. O quiz calcula a pontuação em JavaScript.
-
-[Abrir site](https://gustass-dark.github.io/berk-livro-dos-dragoes/index.html) · [Ver código](https://github.com/Gustass-dark/berk-livro-dos-dragoes)
-
 ## Tecnologias
 
 ![C](https://img.shields.io/badge/C-6842A0?logo=c&logoColor=white)
@@ -25,10 +15,11 @@ Desenvolvi um catálogo responsivo com 12 dragões. A busca e os filtros permite
 ![Git](https://img.shields.io/badge/Git-26232D?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6842A0?logo=github&logoColor=white)
 
-## Outros projetos acadêmicos · 2026/2
+## Projetos acadêmicos · 2026/2
 
 | Projeto | O que desenvolvi | Tecnologias |
 | --- | --- | --- |
+| [Berk — Livro dos Dragões](https://gustass-dark.github.io/berk-livro-dos-dragoes/index.html) · [Código](https://github.com/Gustass-dark/berk-livro-dos-dragoes) | Catálogo responsivo de 12 dragões com busca, filtros, favoritos e quiz | HTML, CSS e JavaScript |
 | [Nightfall](https://github.com/Gustass-dark/nightfall-halloween) | Site de Halloween com carrossel, galeria, modais e curiosidades | HTML e Bootstrap |
 | [LendaVerso](https://github.com/Gustass-dark/lendaverso) | Site temático sobre folclore brasileiro com galeria e cards | HTML e CSS |
 | [Vetores e Matrizes](https://github.com/Gustass-dark/vetores-e-matrizes-em-c) | Contagem de pares e ímpares e exibição de matriz transposta | C |
