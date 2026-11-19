@@ -5,6 +5,8 @@
 
 Estudo Engenharia de Software e desenvolvo sites com HTML, CSS e JavaScript. Nos projetos em C, pratico lógica de programação com vetores, matrizes e funções.
 
+<img src="assets/borda-secao.svg" width="960" alt="">
+
 ## Tecnologias
 
 ![C](https://img.shields.io/badge/C-6842A0?logo=c&logoColor=white)
@@ -14,6 +16,8 @@ Estudo Engenharia de Software e desenvolvo sites com HTML, CSS e JavaScript. Nos
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6842A0?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-26232D?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6842A0?logo=github&logoColor=white)
+
+<img src="assets/borda-secao.svg" width="960" alt="">
 
 ## Projetos acadêmicos · 2026/2
 

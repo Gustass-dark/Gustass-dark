@@ -1,13 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title">
-  <title id="title">Gustavo Mesquita · Engenharia de Software</title>
-  <defs><linearGradient id="background"><stop stop-color="#17141e"/><stop offset="1" stop-color="#322046"/></linearGradient></defs>
-  <rect width="960" height="180" rx="12" fill="url(#background)"/>
-  <rect x="32" y="48" width="4" height="84" rx="2" fill="#ba8aff"/>
-  <g font-family="Arial, sans-serif">
-    <text x="56" y="88" fill="#faf8ff" font-size="48" font-weight="700">Gustavo Mesquita</text>
-    <text x="58" y="126" fill="#dac9ef" font-size="23">Engenharia de Software</text>
-  </g>
-  <g stroke="#ad83df" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="m785 66-28 24 28 24m76-48 28 24-28 24m-22-62-25 76"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-label="Gustavo Mesquita — Engenharia de Software">
+<defs><linearGradient id="bg"><stop stop-color="#100e19"/><stop offset=".62" stop-color="#201530"/><stop offset="1" stop-color="#35204f"/></linearGradient></defs>
+<path d="M35 9H606l11 11h118l11-11h180l25 25v130l-27 27H38L9 162V35Z" fill="url(#bg)" stroke="#a06aff" stroke-width="3"/>
+<g fill="none" stroke-linejoin="bevel"><path d="M20 89V38l19-19h177M940 99v61l-20 21H758" stroke="#d0a6ff" stroke-width="4"/><path d="M44 176h421l10-9h80M657 35h80l10-10h161" stroke="#69448e" stroke-width="1.5"/>
+<path d="m679 130 73-73h127l34 34-73 73H714Z" stroke="#65418c"/><path d="m700 132 63-63h111l22 22-62 62H722Z" stroke="#724a9d"/></g>
+<g fill="#ad77f8"><path d="m53 32 6-6h24l-6 6zm32 0 6-6h12l-6 6zm20 0 6-6h8l-6 6z"/></g>
+<g font-family="Liberation Sans,Arial,sans-serif"><text x="58" y="102" font-size="52" font-weight="700" fill="#f9f6ff">Gustavo Mesquita</text><text x="61" y="140" font-size="24" fill="#dfc9f5">Engenharia de Software</text></g>
+<path d="m779 90-18 18 18 17m37-46-17 56m36-45 18 18-18 17" fill="none" stroke="#d6adff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
