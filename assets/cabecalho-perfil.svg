@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="180" viewBox="0 0 960 180" role="img" aria-labelledby="title">
+  <title id="title">Gustavo Mesquita · Engenharia de Software</title>
+  <defs><linearGradient id="background"><stop stop-color="#17141e"/><stop offset="1" stop-color="#322046"/></linearGradient></defs>
+  <rect width="960" height="180" rx="12" fill="url(#background)"/>
+  <rect x="32" y="48" width="4" height="84" rx="2" fill="#ba8aff"/>
+  <g font-family="Arial, sans-serif">
+    <text x="56" y="88" fill="#faf8ff" font-size="48" font-weight="700">Gustavo Mesquita</text>
+    <text x="58" y="126" fill="#dac9ef" font-size="23">Engenharia de Software</text>
+  </g>
+  <g stroke="#ad83df" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m785 66-28 24 28 24m76-48 28 24-28 24m-22-62-25 76"/>
+  </g>
+</svg>
