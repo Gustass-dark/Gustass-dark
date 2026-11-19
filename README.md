@@ -19,6 +19,7 @@ Estou praticando vetores, matrizes, laços, condições, estruturação de pági
 
 | Projeto | O que desenvolvi | Tecnologias |
 | --- | --- | --- |
+| [Berk — Livro dos Dragões](https://gustass-dark.github.io/berk-livro-dos-dragoes/index.html) · [Código](https://github.com/Gustass-dark/berk-livro-dos-dragoes) | Catálogo de 12 dragões de *Como Treinar o Seu Dragão*, com busca, favoritos e quiz | HTML, CSS e JavaScript |
 | [Nightfall](https://github.com/Gustass-dark/nightfall-halloween) | Site de Halloween com carrossel, galeria, modais e curiosidades | HTML e Bootstrap |
 | [LendaVerso](https://github.com/Gustass-dark/lendaverso) | Site temático sobre folclore brasileiro com galeria e cards | HTML e CSS |
 | [Vetores e Matrizes](https://github.com/Gustass-dark/vetores-e-matrizes-em-c) | Contagem de pares e ímpares e exibição de matriz transposta | C |
