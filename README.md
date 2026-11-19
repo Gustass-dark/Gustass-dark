@@ -1,4 +1,7 @@
-![Gustavo Mesquita — Engenharia de Software](assets/cabecalho-perfil.svg)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cabecalho-perfil.svg">
+  <img src="assets/cabecalho-perfil.gif" alt="Gustavo Mesquita — Engenharia de Software" width="960">
+</picture>
 
 Estudo Engenharia de Software e desenvolvo sites com HTML, CSS e JavaScript. Nos projetos em C, pratico lógica de programação com vetores, matrizes e funções.
 
