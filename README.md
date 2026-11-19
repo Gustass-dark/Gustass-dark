@@ -1,19 +1,18 @@
-# Olá, eu sou Gustavo Mesquita 👋
+# Opa, eu sou o Gustavo 👋
 
-Sou estudante de Engenharia de Software. Meus primeiros projetos unem lógica de programação em C e desenvolvimento de interfaces com HTML, CSS e Bootstrap. Gosto de transformar os exercícios da faculdade em projetos que outras pessoas possam abrir, executar e entender.
+Sou estudante de Engenharia de Software. Quando veio a proposta de criar um site sobre um hobby, escolhi minha trilogia favorita, *Como Treinar o Seu Dragão*. Foi assim que nasceu o [Berk — Livro dos Dragões](https://gustass-dark.github.io/berk-livro-dos-dragoes/index.html). Se quiser testar a busca, tenta achar o Banguela. 🐉
 
-Meu objetivo é aprofundar a base em programação, melhorar a organização do código e desenvolver interfaces cada vez mais acessíveis.
+Fora do código, tô tentando fazer 100% nos jogos de *Kingdom Rush*, um de cada vez. Por aqui, você encontra o que estou aprendendo no caminho, dos primeiros exercícios com matrizes em C aos sites que já dá pra explorar.
 
 ## Tecnologias que estou praticando
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-em_estudo-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-Estou praticando vetores, matrizes, laços, condições, estruturação de páginas e integração de componentes do Bootstrap. Estou começando a organizar meus projetos com Git e GitHub.
+![C](https://img.shields.io/badge/C-6842A0?logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-26232D?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6842A0?logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-26232D?logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6842A0?logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-26232D?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6842A0?logo=github&logoColor=white)
 
 ## Projetos acadêmicos · 2026/2
 
